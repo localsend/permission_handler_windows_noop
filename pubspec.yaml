@@ -13,12 +13,12 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  permission_handler_platform_interface: ^3.7.0
+  permission_handler_platform_interface: any
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  plugin_platform_interface: ^2.0.0
+  plugin_platform_interface: any
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
